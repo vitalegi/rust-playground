@@ -45,3 +45,9 @@ cargo run
 ```
 cargo check
 ```
+
+### Build dependencies documentation
+
+```
+cargo doc --open
+```
